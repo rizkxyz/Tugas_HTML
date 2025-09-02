@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="1027" font-variant="normal" style="fill-rule:nonzero" font-weight="800">
+	<font-face 
+		font-family="Akira Expanded">
+		<font-face-src>
+			<font-face-name name="AkiraExpanded-SuperBold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="R" horiz-adv-x="899" d="M9.8327 655.997l0 -655.997 255.833 0 0 159.998 228.502 0 123.496 -159.998 272.504 0 -143.168 183.998c42.9981,19.8367 77.6635,50.1674 103.666,89.5041 26.3327,39.9981 39.502,84.8328 39.502,134.333 1.99607,135.833 -112.837,249.497 -248.002,248.162l-632.334 0zm567.834 -191.994c31.1694,0 56.1674,-24.8386 56.1674,-56.1674 0,-15.3366 -5.33269,-28.5001 -16.6654,-39.6674 -10.6713,-10.8366 -23.8347,-16.1693 -39.502,-16.1693l-312.001 0 0 112.004 312.001 0z"/>
+   <glyph unicode="i" horiz-adv-x="275" d="M9.8327 657.001l0 -657.001 255.833 0 0 657.001 -255.833 0z"/>
+   <glyph unicode="k" horiz-adv-x="963" d="M377.499 225l240.668 -225 336.001 0 -340.335 329.003 340.335 327.999 -336.001 0 -240.668 -224.002 -111.833 0 0 224.002 -255.833 0 0 -657.001 255.833 0 0 225 111.833 0z"/>
+   <glyph unicode="y" horiz-adv-x="1011" d="M314.003 655.997l-304.17 0 368.168 -431.995 0 -224.002 255.833 0 0 224.002 368.168 431.995 -303.833 0 -192.337 -235.329 -191.829 235.329z"/>
+   <glyph unicode="z" horiz-adv-x="867" d="M441.834 447.999l-432.001 -240 0 -207.998 847.998 0 0 207.998 -447.662 0 447.662 240 0 207.998 -847.998 0 0 -207.998 432.001 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Akira Expanded";font-variant:normal;font-weight:800;src:url("#FontID0") format(svg)}
+    .str2 {stroke:#FEFEFE;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str1 {stroke:#FEFEFE;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str3 {stroke:#FEFEFE;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:#749BC2;stroke-width:7.62;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil4 {fill:#566892}
+    .fil14 {fill:#4C628F}
+    .fil0 {fill:#424874}
+    .fil3 {fill:#424874}
+    .fil1 {fill:#DCD6F7}
+    .fil12 {fill:url(#id0)}
+    .fil11 {fill:url(#id1)}
+    .fil13 {fill:url(#id2)}
+    .fil8 {fill:url(#id3)}
+    .fil5 {fill:url(#id4)}
+    .fil10 {fill:url(#id5)}
+    .fil6 {fill:url(#id6)}
+    .fil7 {fill:url(#id7)}
+    .fil9 {fill:url(#id8)}
+    .fil2 {fill:url(#id9)}
+    .fnt0 {font-weight:800;font-size:1693.33px;font-family:'Akira Expanded'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="12370.43" y1="8576.7" x2="12375.46" y2="8468.02">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4C628F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="12492.38" y1="8473.41" x2="12498.33" y2="8344.98">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="12260.52" y1="8657.09" x2="12264.36" y2="8574.22">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="13129.69" y1="8253.41" x2="13140.17" y2="8027.09">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="14006.99" y1="9094.22" x2="14026.93" y2="8663.77">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="12649.41" y1="8353.87" x2="12656.5" y2="8200.83">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="13802.5" y1="8616.36" x2="13818.54" y2="8270.21">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="13450.32" y1="8371.79" x2="13463.39" y2="8089.72">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="12869.58" y1="8268.48" x2="12877.94" y2="8087.97">
+  </linearGradient>
+  <radialGradient id="id9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00309088 -1.00291 1.00291 0.00309088 -1365 22723)" cx="10715.65" cy="12012.87" r="4013.42" fx="10715.65" fy="12012.87">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DCD6F7"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="9531.87,9182.74 7869.45,9182.74 7869.45,10845.17 6693.95,12020.67 7869.45,13196.16 7869.45,14858.57 9531.86,14858.57 10707.37,16034.08 11882.87,14858.57 13545.28,14858.57 13545.28,13196.16 14720.78,12020.67 13545.28,10845.17 13545.28,9182.74 11882.86,9182.74 10707.37,8007.24 "/>
+  <polygon class="fil1 str0" points="9602.49,9327.08 8035.07,9327.08 8035.07,10894.51 6926.74,12002.84 8035.07,13111.16 8035.07,14678.57 9602.48,14678.57 10710.82,15786.91 11819.15,14678.57 13386.56,14678.57 13386.56,13111.16 14494.89,12002.84 13386.56,10894.51 13386.56,9327.08 11819.14,9327.08 10710.82,8218.75 "/>
+  <polygon class="fil0 str0" points="9736.62,9635.9 8350.44,9635.9 8350.44,11022.09 7370.27,12002.26 8350.44,12982.43 8350.44,14368.6 9736.62,14368.6 10716.8,15348.78 11696.97,14368.6 13083.14,14368.6 13083.14,12982.43 13161.23,12904.34 12817.23,12560.34 12904.66,12472.91 13248.66,12816.91 13561.05,12504.52 13217.05,12160.52 13304.48,12073.09 13648.48,12417.09 14063.31,12002.26 13083.14,11022.09 13083.14,9635.9 11696.96,9635.9 10814.94,8753.87 10814.94,9624.02 10609.82,9624.02 10609.82,8762.71 "/>
+  <polygon class="fil2" points="9931.04,10118.63 8821.41,10118.63 8821.41,11228.26 8036.8,12012.88 8821.41,12797.48 8821.41,13907.1 9931.03,13907.1 10715.65,14691.72 11500.26,13907.1 12609.88,13907.1 12609.88,12797.48 13394.49,12012.88 12609.88,11228.26 12609.88,10118.63 11500.26,10118.63 10715.65,9334.02 "/>
+  <rect class="fil3" x="9302.61" y="12718.3" width="628.41" height="1231.26"/>
+  <rect class="fil3" x="11477.55" y="12695.88" width="628.41" height="1231.26"/>
+  <rect class="fil3" x="11455.57" y="10497.66" width="628.41" height="1231.26"/>
+  <rect class="fil3" transform="matrix(0.675139 -0.675139 0.356177 0.356177 10251.2 10445.3)" width="628.41" height="1191.16"/>
+  <rect class="fil3" x="9226.77" y="10533.16" width="628.41" height="1231.26"/>
+  <rect class="fil3" x="10388.61" y="12694.31" width="628.41" height="2100.84"/>
+  <rect class="fil3" transform="matrix(-3.60118E-14 -1 2.39814 -4.67106E-14 9225.98 12174.6)" width="628.41" height="1191.16"/>
+  <path class="fil4 str1" d="M7853.77 13597.06c-261.67,598.96 -307.24,1067.96 -77.25,1288.4 516.23,494.79 2224.18,-449.46 3814.83,-2109.02 1478.91,-1543.01 2335.46,-3160.91 2033.61,-3778.28 10.37,-9.79 20.58,-19.58 30.56,-29.37 24.06,127.55 139.9,224.26 279.2,224.26 156.74,0 283.79,-122.44 283.79,-273.48 0,-61.38 -20.98,-118.04 -56.42,-163.67l32.92 0c277.11,726.49 -774.24,2549.27 -2515.23,4286.48 -1896.65,1892.55 -3893.28,2966.67 -4459.6,2399.13 -317.12,-317.8 -118.38,-1083.04 450.83,-2027.21l182.76 182.76z"/>
+  <ellipse class="fil5 str2" cx="13934.72" cy="8919.58" rx="283.79" ry="273.48"/>
+  <ellipse class="fil6 str2" cx="13744.39" cy="8475.92" rx="228.21" ry="219.92"/>
+  <ellipse class="fil7 str2" cx="13402.97" cy="8257.35" rx="185.97" ry="179.21"/>
+  <ellipse class="fil8 str2" cx="13091.7" cy="8161.58" rx="149.21" ry="143.78"/>
+  <ellipse class="fil9 str3" cx="12839.28" cy="8195.24" rx="119.01" ry="114.68"/>
+  <ellipse class="fil10 str3" cx="12623.72" cy="8291.78" rx="100.89" ry="97.23"/>
+  <ellipse class="fil11 str3" cx="12470.82" cy="8421.31" rx="84.67" ry="81.6"/>
+  <ellipse class="fil12 str3" cx="12352.18" cy="8532.61" rx="71.65" ry="69.05"/>
+  <ellipse class="fil13 str3" cx="12246.61" cy="8623.47" rx="54.64" ry="52.65"/>
+  <text x="7155.69" y="17699.28"  class="fil14 fnt0">Rizky</text>
+ </g>
+</svg>
